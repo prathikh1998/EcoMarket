@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Shop - EcoMarket: Handcrafted Materials</title>
-  <link rel="stylesheet" href="../styles/styles_shop.css">
+  <link rel="stylesheet" href="../styles/styles_about.css">
 </head>
 <body>
   <?php include 'header.php'; ?>

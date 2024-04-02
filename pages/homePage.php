@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>EcoMarket: Handcrafted Materials</title>
-  <link rel="stylesheet" href="../styles/styles_main.css">
+  <link rel="stylesheet" href="../styles/styles_about.css">
 </head>
 
 <body>
@@ -15,7 +15,7 @@
       <div class="container" id="welcome">
         <h2>Welcome to EcoMarket</h2>
         <p>Discover handcrafted materials that promote sustainability and craftsmanship.</p>
-        <a href="shop.html" class="btn">Shop Now</a>
+        <a href="../pages/shop.php" class="btn">Shop Now</a>
       </div>
     </section>
 

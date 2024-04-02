@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="../styles/styles_about.css">
 </head>
 <body>
-  <?php include 'header.php';?>
+  <?php include 'header.php'; ?>
   <main>
     <section class="about">
       <div class="container">

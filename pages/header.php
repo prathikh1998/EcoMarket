@@ -103,7 +103,7 @@
                     // Add options dropdown within the same div
                     echo "<div class='dropdown-content'>
                             <a href='login.html'>Logout</a>
-                            <a href='profile.html'>Profile</a>
+                            <a href='profile.php'>Profile</a>
                           </div>";
                 } else {
                     // If user is not logged in
